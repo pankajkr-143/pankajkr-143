@@ -59,7 +59,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pankajkr-143&show_icons=true&locale=en&layout=compact" alt="pankajkr-143" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pankajkr-143&theme=dark" alt="pankajkr-143-streak" />
+  <img src="https://github.com/anuraghazra/github-readme-stats/?user=pankajkr-143&theme=dark" alt="pankajkr-143-streak" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pankajkr-143&show_icons=true&locale=en&theme=radical" alt="pankajkr-143-stats" />
