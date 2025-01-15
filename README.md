@@ -20,12 +20,35 @@
 
 ### 📱 Connect With Me:
 <p align="center">
-  <a href="https://linkedin.com/in/pankaj-kumar-647080266" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://stackoverflow.com/users/22307794/macky-the-coder" target="_blank"><img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow"></a>
-  <a href="https://www.facebook.com/profile.php?id=100090498100791" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
-  <a href="https://www.instagram.com/mr._macky_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://www.youtube.com/@MackysTech" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
+  <a href="https://linkedin.com/in/pankaj-kumar-647080266" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://stackoverflow.com/users/22307794/macky-the-coder" target="_blank">
+    <img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow">
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100090498100791" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+  </a>
+  <a href="https://www.instagram.com/mr._macky_/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://www.youtube.com/@MackysTech" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="tel:+1234567890">
+    <img src="https://img.shields.io/badge/Phone-34B7F1?style=for-the-badge&logo=phone&logoColor=white" alt="Mobile">
+  </a>
+  <a href="https://wa.me/yourwhatsappnumber">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  </a>
+  <a href="https://www.mackystech.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Website">
+  </a>
 </p>
+
 
 ---
 
@@ -61,15 +84,24 @@
 ### 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pankajkr-143&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pankajkr-143&theme=radical" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pankajkr-143&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
 ### 🚀 Fun Challenges:
-- [CodeChef](https://www.codechef.com/users/saloni_68)
-- [HackerRank](https://www.hackerrank.com/kumarpankaj85891/)
-- [LeetCode](https://www.leetcode.com/kumarmacky/)
-- [HackerEarth](https://www.hackerearth.com/@pankaj2465/)
+<p align="center">
+  <a href="https://www.codechef.com/users/saloni_68">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef">
+  </a>
+  <a href="https://www.hackerrank.com/kumarpankaj85891/">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank">
+  </a>
+  <a href="https://www.leetcode.com/kumarmacky/">
+    <img src="https://img.shields.io/badge/LeetCode-F9C12E?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
+  </a>
+  <a href="https://www.hackerearth.com/@pankaj2465/">
+    <img src="https://img.shields.io/badge/HackerEarth-2D8CFF?style=for-the-badge&logo=hackerearth&logoColor=white" alt="HackerEarth">
+  </a>
+</p>
 
