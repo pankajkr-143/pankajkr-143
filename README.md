@@ -2,11 +2,18 @@
 <h3 align="center">A Passionate Full-Stack Developer from India</h3>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pankajkr-143&theme=algolia&row=1&column=6" alt="Trophies"></a>
+  <!-- Top row: 3 trophies -->
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=pankajkr-143&theme=algolia&row=1&column=6&title=PullRequest,Actions" alt="Trophies">
+    <img src="https://github-profile-trophy.vercel.app/?username=pankajkr-143&theme=algolia&row=1&column=3&margin-w=15" alt="Trophies">
   </a>
 </p>
+<p align="center">
+  <!-- Bottom row: 4 trophies -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=pankajkr-143&theme=algolia&row=1&column=4&title=PullRequest,Actions&margin-w=15" alt="Trophies">
+  </a>
+</p>
+
 
 ---
 
