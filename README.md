@@ -2,7 +2,6 @@
 <h3 align="center">A Passionate Full-Stack Developer from India</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pankajkr-143&label=Profile%20views&color=0e75b6&style=flat" alt="pankajkr-143" />
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pankajkr-143&theme=algolia&row=1&column=6" alt="Trophies"></a>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=pankajkr-143&theme=algolia&row=1&column=6&title=PullRequest,Actions" alt="Trophies">
